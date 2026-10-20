@@ -1,0 +1,10 @@
+{
+  "name": "MyBestie – Kết nối hội bạn thân",
+  "description": "Ứng dụng web hiện đại kết nối hội bạn thân: bản đồ điểm hẹn, kho trò chơi nhiều người chơi thời gian thực và gọi video WebRTC chất lượng cao.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
